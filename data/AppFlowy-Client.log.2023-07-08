@@ -1,0 +1,21 @@
+{"msg":"Supabase config is empty, skip init supabase."}
+{"msg":"Unsupported locale: en_US, Fallback to locale: en"}
+{"msg":"Network type: Wifi"}
+{"msg":"Network type: Wifi"}
+{"msg":"[🟢 INITIALIZE - Start]","line":117,"file":"flowy-folder2/src/manager.rs","uid":213872785292791808,"workspace_id":"ecb3bdf9-a11e-4b7b-84c9-44f5c7a28d3c"}
+{"msg":"[🔵 INITIALIZE - End]","line":117,"file":"flowy-folder2/src/manager.rs","elapsed_milliseconds":24,"uid":213872785292791808,"workspace_id":"ecb3bdf9-a11e-4b7b-84c9-44f5c7a28d3c"}
+{"msg":"[Document] apply_action error: BlockIsNotFound"}
+{"msg":"[Document] apply_action error: BlockIsNotFound"}
+{"msg":"Network type: Unknown"}
+{"msg":"Network type: Wifi"}
+{"msg":"Network type: Unknown"}
+{"msg":"Network type: Wifi"}
+{"msg":"Network type: Unknown"}
+{"msg":"Network type: Wifi"}
+{"msg":"Network type: Unknown"}
+{"msg":"Network type: Wifi"}
+{"msg":"[🟢 INITIALIZE - Start]","line":117,"file":"flowy-folder2/src/manager.rs","uid":213872785292791808,"workspace_id":"ecb3bdf9-a11e-4b7b-84c9-44f5c7a28d3c"}
+{"msg":"[🔵 INITIALIZE - End]","line":117,"file":"flowy-folder2/src/manager.rs","uid":213872785292791808,"workspace_id":"ecb3bdf9-a11e-4b7b-84c9-44f5c7a28d3c","elapsed_milliseconds":47}
+{"msg":"Supabase config is empty, skip init supabase."}
+{"msg":"Network type: Wifi"}
+{"msg":"Network type: Wifi"}
